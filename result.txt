@@ -1,0 +1,49 @@
+Introduceti o operatie cu multimi
+1.Verificare unicitate
+2.Apartenenta
+3.Diferenta 
+4.Produs cartezian
+5.Exit
+
+....................................................................
+2 
+e = 6
+Multime: 1 1 2  
+Verificare: elementele nu sunt unice
+=> nu se poate realiza operatia mai departe
+
+....................................................................
+
+
+Puteti introduce o alta comada: 2 
+e = 6
+Multime: 1 2 6  
+Verificare: elemente unice
+Rezultat: apartine
+
+....................................................................
+
+
+Puteti introduce o alta comada: 3 
+Multime A: 1 2 3  
+Verificare: elemente unice
+Multime B: 3 4 5  
+Verificare: elemente unice
+1 2 4 5  
+
+....................................................................
+
+
+Puteti introduce o alta comada: 4 
+Multime A: 1 2 3  
+Verificare: elemente unice
+Multime B: 4 5 6  
+Verificare: elemente unice
+{1, 4} {1, 5} {1, 6} {2, 4} {2, 5} {2, 6} {3, 4} {3, 5} {3, 6} 
+....................................................................
+
+
+Puteti introduce o alta comada: 5 
+
+
+Sfarsit program :) 
